@@ -1,0 +1,61 @@
+body{
+    background-color: white;
+    margin-top: 50px;
+}
+h1{
+    text-align: center;
+
+}
+
+*{text-align: center;
+  width: bold;
+
+
+}
+
+.szin{
+    border-radius: 50px 50px 300px 300px;
+    background-color: rgb(168, 168, 168);
+    font-style: italic;
+    padding-bottom: 10px;
+    margin: 10px;
+    margin-bottom: 50px;
+}
+
+
+
+ul{
+    margin-top: 200px;
+    width: bold;
+    list-style: none;
+    font-style: none;
+    float: left;
+    color: white;
+    text-shadow: 2px 2px 5px white;
+}
+
+.w{
+    background-color: rgb(53, 53, 53);
+    border-radius: 80px;
+    margin-left: 500px;
+}
+
+.feher{
+    color: white;
+    text-shadow: 2px 2px 5px white;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    color: black;
+    width: bold;
+    text-shadow: 2px 2px 5px black;
+
+}
+
+h1{
+    width: bold;
+}
